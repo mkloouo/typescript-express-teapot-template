@@ -1,14 +1,18 @@
 {
-  "name": "ngroup",
+  "name": "typescript-express-teapot-template",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "just a template for a teapot",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node index.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "email": "mkloouo@gmail.com",
+    "name": "Mykola Odnosumov",
+    "url": "https://nifan.online"
+  },
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
